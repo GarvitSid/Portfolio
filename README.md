@@ -7,7 +7,7 @@
 
 A modern, dark-themed developer portfolio built to showcase full-stack engineering work through interactive **case studies** — each breaking down a project's problem, solution, architecture, security implementation, and outcome, rather than just listing a tech stack.
 
-**🌍 Live Site:** [portfolio-garvitsingh.vercel.app](https://portfolio-garvitsingh.vercel.app/)
+## [ **🌍 Live Site**](https://portfolio-garvitsingh.vercel.app/)
 
 ---
 
@@ -23,7 +23,7 @@ A modern, dark-themed developer portfolio built to showcase full-stack engineeri
 - [Connect With Me](#connect-with-me)
 
 ---
-
+<a id='overview'></a>
 ## Overview
 
 This repository contains the **frontend portfolio site itself** — a single-page React application built with Vite and Tailwind CSS. It's not a full-stack app in its own right; instead, it's the showcase layer for full-stack (MERN) projects, each of which links out to its own live demo and source repository.
@@ -63,24 +63,24 @@ The portfolio's `Projects` section highlights detailed case studies for three fu
 
 A job search platform with zero-reload dynamic filtering (salary, employment type) and JWT-based stateless authentication protecting job and profile routes.
 
-- **Live:** [jobby-app-jir5.onrender.com](https://jobby-app-jir5.onrender.com/)
-- **Source:** [github.com/GarvitSid/Jobby-App](https://github.com/GarvitSid/Jobby-App)
+- [**Live**](https://jobby-app-jir5.onrender.com/)
+- [**Source**](https://github.com/GarvitSid/Jobby-App)
 
 ### 2. VoxNode — AI-Powered Voice-to-Mindmap Transcriber
 `AI Integration` · React.js · OpenAI API · Node.js · Express.js · Tailwind CSS
 
 Transcribes spoken voice notes into structured, hierarchical mind maps via the Web Speech API and an OpenAI GPT prompt pipeline, with a rate-limited Express backend keeping the API key server-side.
 
-- **Live:** [vox-map-mind.lovable.app](https://vox-map-mind.lovable.app/)
-- **Source:** [github.com/GarvitSid/vox-map-mind](https://github.com/GarvitSid/vox-map-mind)
+- [**Live**](https://vox-map-mind.lovable.app/)
+- [**Source**](https://github.com/GarvitSid/vox-map-mind)
 
 ### 3. AgroInOne — Domain-Specific Agriculture Data Platform
 `Domain-Specific` · MongoDB · Express.js · React.js · Node.js · REST APIs
 
 A full-stack MERN application centralizing crop data, market pricing, and farm operational records for the Indian agriculture domain, backed by a MongoDB Atlas schema and a CRUD-complete Express API.
 
-- **Live:** [agroinone-main.onrender.com](https://agroinone-main.onrender.com/)
-- **Source:** [github.com/GarvitSid/AgroInOne](https://github.com/GarvitSid/AgroInOne)
+- [**Live**](https://agroinone-main.onrender.com/)
+- [**Source**](https://github.com/GarvitSid/AgroInOne)
 
 > Open the live portfolio and click any project card for the full case study — architecture diagrams, security details, and metrics included.
 
@@ -156,9 +156,9 @@ npm run build
 
 I'm actively open to full-stack developer roles and internship opportunities.
 
-- **Email:** [garvitsingh.connect@gmail.com](mailto:garvitsingh.connect@gmail.com)
-- **LinkedIn:** [linkedin.com/in/garvit-singh-22605a246](https://linkedin.com/in/garvit-singh-22605a246)
-- **GitHub:** [@GarvitSid](https://github.com/GarvitSid)
+- [**Email**](mailto:garvitsingh.connect@gmail.com)
+- [**LinkedIn**](https://linkedin.com/in/garvit-singh-22605a246)
+- [**GitHub**](https://github.com/GarvitSid)
 
 ---
 
