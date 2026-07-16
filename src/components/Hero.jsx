@@ -94,10 +94,10 @@ const Hero = () => {
       </div>
 
       {/* Scroll indicator */}
-      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-zinc-600 animate-bounce">
+      <a href="#about" aria-label="Scroll to Journey section" className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-zinc-600 animate-bounce hover:text-cyan-400 transition-colors cursor-pointer">
         <span className="text-xs font-mono tracking-widest uppercase">scroll</span>
         <ArrowDown size={16} />
-      </div>
+      </a>
     </section>
   );
 };
