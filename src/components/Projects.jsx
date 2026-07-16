@@ -104,9 +104,9 @@ const ProjectCard = ({ project, index, onOpenCase }) => {
             Source
           </a>
           <button
-            className="ml-auto text-xs font-mono text-zinc-500 hover:text-cyan-400 transition-colors underline underline-offset-2"
-          >
-            Case Study →
+            className="ml-auto text-xs font-mono text-zinc-500 hover:text-cyan-400 transition-colors "
+          ><span className="underline underline-offset-2">Case Study</span> 
+             <span> → </span>
           </button>
         </div>
       </div>
